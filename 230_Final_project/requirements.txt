@@ -1,0 +1,12 @@
+mcp>=2.0.0
+ddgs>=9.0.0
+langchain-core
+langchain-community
+langchain-ollama
+langchain-text-splitters
+pypdf
+pymysql
+python-dotenv
+tqdm
+ollama
+openai
